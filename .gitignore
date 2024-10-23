@@ -7,3 +7,7 @@ Local Settings/
 My Documents/
 Recent/
 Templates/
+# Ignore system files and directories
+AppData/
+*.tmp
+*.log

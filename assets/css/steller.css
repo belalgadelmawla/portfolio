@@ -722,6 +722,12 @@ pre code {
 #skills {
   background-color: #fff;
 }
+#skills i {
+  font-size: 30px;
+}
+.my-skill {
+  display: inline-block;
+}
 #portfolio {
   background-color: #ddd;
 }
